@@ -1,0 +1,14 @@
+.images {
+    margin: 50px;
+    height: 300px;
+}
+
+#flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+#logout {
+    left: 1000px;
+}
